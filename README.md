@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Huseyinbirgul563 Sunucu</title>
 </head>
 <body>
     <h1>Hoş Geldiniz!</h1>
